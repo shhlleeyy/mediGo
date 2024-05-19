@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617323383504",
+    "project_id": "medigo-409910",
+    "storage_bucket": "medigo-409910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617323383504:android:382f18bb3aae997365ecd5",
+        "android_client_info": {
+          "package_name": "com.mycompany.medigo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSV3pt4qbwDstc-mFlGGmu07D1hYKqJpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
