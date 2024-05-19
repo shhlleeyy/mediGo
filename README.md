@@ -1,7 +1,1 @@
-# meditest
-
-A new Flutter project.
-
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+a medicine delivery app that aims to help UPV constituents in purchasing their needed medicines without the need to go out of their dorms or boarding houses
